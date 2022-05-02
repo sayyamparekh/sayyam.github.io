@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Dancing+Script&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Cardo&family=Dancing+Script&family=Secular+One&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('qimg.jpg') ;
+    font-family: 'Cardo', serif;
+    background-size: cover;
+
+}
+
+.qua{
+    margin-top: 10%;
+}
+
+.qua h1{
+    font-family: 'Allura', cursive;
+    font-size: 80px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: rgba(163, 157, 157, 0.267);
+
+}
+
+.a{
+    display: flex;
+    text-align: center;
+    width:auto;
+    justify-content: center;    
+
+}
+
+.a .b{
+    background-color: white;
+    margin: 5px;
+    margin-bottom: 50px;
+    width:300px;
+    padding: 20px;
+    line-height: normal;
+    color:#8e8b8b;
+    position: relative;
+    ;
+}
+
+.a .b h3{
+    color:rgb(255, 0, 64);
+    font-size: 25px;
+    margin-top : 50px;
+}
+
+.a .b ul{
+    margin-top: 10px;
+}
+
+li{
+    font-size: 17px;
+    color:black;
+}
